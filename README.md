@@ -82,4 +82,4 @@
 
 ---
 
-*Disponible pour des opportunités de stage et projets en développement web*
+*Disponible pour des opportunités de stage et projets en développement *
