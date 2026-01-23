@@ -85,25 +85,7 @@ Je cherche continuellement à améliorer mes compétences techniques à travers 
 
 ---
 
-### 🎓 EduCheck AI (PFE)
 
-> Plateforme intelligente de correction automatique d’examens
-
-**Architecture Microservices :**
-
-* **Frontend Web** : React.js + TypeScript + Tailwind CSS
-* **Mobile** : React Native + Expo
-* **Backend** :
-
-  * FastAPI (OCR, NLP, Math, API Gateway)
-  * Django (Authentification)
-* **Base de données** : PostgreSQL
-* **DevOps** : Docker
-
-**Objectif :**
-Automatiser la correction des examens en utilisant l’IA pour aider les enseignants et améliorer l’efficacité du système éducatif.
-
----
 
 ## 🎯 Objectifs
 
