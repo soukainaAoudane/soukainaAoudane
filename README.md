@@ -1,9 +1,6 @@
 # 👩‍💻 Soukaina Aoudane
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoukainaAoudane&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoukainaAoudane&layout=compact&theme=tokyonight" height="160" />
-</p>
+
 
 🎓 **Étudiante en BTS Développement d’Applications Informatiques (2ᵉ année)**
 🚀 Passionnée par le **backend**, les **microservices** et l’**IA appliquée à l’éducation**
@@ -96,25 +93,7 @@ Je cherche continuellement à améliorer mes compétences techniques à travers 
 
 ---
 
-### 🎓 EduCheck AI (PFE)
 
-> Plateforme intelligente de correction automatique d’examens
-
-**Architecture Microservices :**
-
-* **Frontend Web** : React.js + TypeScript + Tailwind CSS
-* **Mobile** : React Native + Expo
-* **Backend** :
-
-  * FastAPI (OCR, NLP, Math, API Gateway)
-  * Django (Authentification)
-* **Base de données** : PostgreSQL
-* **DevOps** : Docker
-
-**Objectif :**
-Automatiser la correction des examens en utilisant l’IA pour aider les enseignants et améliorer l’efficacité du système éducatif.
-
----
 
 ## 🎯 Objectifs
 
@@ -124,17 +103,20 @@ Automatiser la correction des examens en utilisant l’IA pour aider les enseign
 * Trouver un **stage** en développement logiciel / backend
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoukainaAoudane&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoukainaAoudane&layout=compact&theme=tokyonight" height="160" />
+</p>
 
 ## 📫 Me contacter
 
 <p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:aoudanesoukaina@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/soukaina-aoudane/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
-* 📧 Email : *à ajouter*
-* 💼 LinkedIn : *à ajouter*
-* 🌍 GitHub : *Ce profil*
+* 📧 Email : *aoudanesoukaina@gmail.com*
+* 💼 LinkedIn : *Soukaina AOUDANE*
 
 ---
 
