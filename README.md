@@ -29,7 +29,7 @@ Je cherche continuellement à améliorer mes compétences techniques à travers 
 ### 🛠️ Stack Technique (visualisation)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,php,c,cs,html,css,fastapi,django,nodejs,express,mysql,postgres,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,c,cs,html,css,nodejs,express,mysql,postgres,docker,git,linux" />
 </p>
 
 ### 🔧 Langages de programmation
