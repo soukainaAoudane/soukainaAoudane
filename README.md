@@ -70,10 +70,18 @@ Exploring code, building ideas, discovering what's possible.
 
 ### 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-49.8%25-f1e05a?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-40.6%25-3572A5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-9.3%25-563d7c?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-0.3%25-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=soukainaAoudane&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=soukainaAoudane&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+
 
 
 ### 📈 Contribution Graph
