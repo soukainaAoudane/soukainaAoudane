@@ -21,8 +21,8 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           token: ${{ github.token }}
-          default-days: '30'
-          ranges: '30,90,365'
+          default-days: '365'
+          ranges: '365'
           layout: spacious
           output-dir: activity-dist
 
