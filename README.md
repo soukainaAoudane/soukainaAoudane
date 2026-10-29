@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/soukainaAoudane">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=%E0%AD%A8%E0%AD%A7%20Soukaina%20Aoudane" alt="୨୧ Soukaina Aoudane" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=698&text=%E0%AD%A8%E0%AD%A7%20Soukaina%20Aoudane" alt="୨୧ Soukaina Aoudane" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=625&height=44&lines=My%20little%20corner%20of%20code%20%26%20creativity%20%E2%99%A1;Somewhere%20between%20logic%20%26%20imagination%20%E2%9C%A7" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=625&height=44&lines=My%20little%20corner%20of%20code%20%26%20creativity%20%E2%99%A1;Somewhere%20between%20logic%20%26%20imagination%20%E2%9C%A7" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -71,10 +71,9 @@ Exploring code, building ideas, discovering what's possible.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=soukainaAoudane&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=soukainaAoudane&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=soukainaAoudane&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=soukainaAoudane&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
-
 
 
 ### 📈 Contribution Graph
@@ -85,13 +84,6 @@ Exploring code, building ideas, discovering what's possible.
     src="https://raw.githubusercontent.com/soukainaAoudane/soukainaAoudane/activity-assets/activity-365d.svg"
     alt="Soukaina's GitHub Activity Graph — Last 365 Days"
   />
-</p>
-
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/soukainaAoudane/soukainaAoudane/activity-assets/activity-30d.svg">30 days</a> ·
-  <a href="https://raw.githubusercontent.com/soukainaAoudane/soukainaAoudane/activity-assets/activity-90d.svg">90 days</a> ·
-  <a href="https://raw.githubusercontent.com/soukainaAoudane/soukainaAoudane/activity-assets/activity-365d.svg">365 days</a>
 </p>
 
 
