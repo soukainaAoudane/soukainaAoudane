@@ -26,6 +26,7 @@ jobs:
           layout: spacious
           output-dir: activity-dist
 
+      
       - name: Apply navy pink lavender theme
         shell: bash
         run: |
@@ -33,40 +34,35 @@ jobs:
           from pathlib import Path
           import re
 
+          replacements = {
+              "#0d1117": "#191B35",
+              "#111821": "#222443",
+              "#30363d": "#C4B5FD",
+              "#21262d": "#383858",
+              "#f0f6fc": "#FCE7F0",
+              "#8b949e": "#C4B5FD",
+              "#39d353": "#F6A6C8",
+              "#58a6ff": "#C4B5FD",
+              "#56d364": "#F6A6C8",
+              "rgba(57, 211, 83, 0.24)": "rgba(246, 166, 200, 0.24)",
+              "rgba(57, 211, 83, 0.015)": "rgba(246, 166, 200, 0.015)",
+          }
+
           for path in Path("activity-dist").glob("*.svg"):
               svg = path.read_text(encoding="utf-8")
 
-              # Navy background and pink/lavender accents.
-              svg = re.sub(
-                  r'(<svg\b[^>]*\bstyle="[^"]*)',
-                  lambda m: m.group(1),
-                  svg
-              )
-
-              # Replace common default chart colors.
-              colors = {
-                  "#0d1117": "#191B35",
-                  "#161b22": "#191B35",
-                  "#21262d": "#191B35",
-                  "#0969da": "#F6A6C8",
-                  "#1f6feb": "#F6A6C8",
-                  "#58a6ff": "#C4B5FD",
-                  "#2da44e": "#F6A6C8",
-                  "#3fb950": "#F6A6C8",
-                  "#238636": "#C4B5FD",
-              }
-
-              for old, new in colors.items():
+              for old, new in replacements.items():
                   svg = re.sub(
                       re.escape(old),
-                      new,
+                      lambda _: new,
                       svg,
                       flags=re.IGNORECASE
                   )
 
               path.write_text(svg, encoding="utf-8")
-              print(f"Customized: {path}")
+              print(f"Applied custom colors: {path}")
           PY
+
 
       - name: Publish charts
         env:
